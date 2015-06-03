@@ -32,7 +32,7 @@
 }
 
 .opstycky1 {
-    transition: all 1s;
+    transition: all .3s;
 	float: left;
 	width: 100%;
 	background: transparent;
