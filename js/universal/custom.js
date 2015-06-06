@@ -4,7 +4,9 @@
 $(".scrollup").pageup();
 
 $(document).ready(function() {
-
+	$('#open-map').click(function(){
+		$('.contact-overlay').slideToggle( "fast");
+	});
 	
 	$("#owl-demo").owlCarousel({
 	autoPlay: 3000,

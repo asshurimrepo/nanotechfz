@@ -772,6 +772,11 @@
 
 .stcode_title7 {
 	text-align: center;
+	color: #f0eded;
+}
+.stcode_title7 h2{
+	color: #f0eded;
+	font-family: 'Open Sans', sans-serif;
 }
 .stcode_title7 em {
 	display: block;
@@ -781,12 +786,12 @@
 	font-weight: 400;
 }
 .stcode_title7 .line{
-    background: #9eca45;
-    height: 3px;
-    display: block;
-    bottom: 0px;
-    width: 100px;
-	margin: 18px auto 0 auto;
+	background: #f0eded;
+	height: 3px;
+	display: block;
+	bottom: 0px;
+	width: 190px;
+	margin: 6px auto 0 auto;
 }
 
 .stcode_title8 h2{
