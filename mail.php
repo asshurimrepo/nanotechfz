@@ -12,6 +12,7 @@
 	$name = $_POST['name'];
 	$from = $_POST['email'];
 	$phone = $_POST['phone'];
+	$address = $_POST['address'];
 	$subject = stripslashes( nl2br( $_POST['subject'] ) );
 	$message = stripslashes( nl2br( $_POST['message'] ) );
 	
@@ -28,6 +29,7 @@
 		Name: <?php echo ucfirst( $name ); ?><br />
 		Email: <?php echo $from; ?><br />
 		Phone: <?php echo $phone; ?><br />
+		Address: <?php echo $address; ?><br />
 		Subject: <?php echo $subject; ?><br />
 		Message: <br /><br />
 		<?php echo $message; ?>
@@ -38,7 +40,7 @@
 	$body = ob_get_contents();
 	ob_end_clean();
 	
-	$to = 'gsrthemes9@gmail.com';
+	$to = 'powerlogic1992@gmail.com';
 
 	$s = mail($to,$subject,$body,$headers,"-t -i -f $from");
 

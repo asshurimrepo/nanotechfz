@@ -647,7 +647,7 @@
                         <div class="clearfix"></div>
                         <div class="cforms two">
                             <div id="form_status"></div>
-                            <form type="POST" id="gsr-contact" onSubmit="return valid_datas( this );">
+                            <form action="mail.php" method="POST" id="gsr-contact" onSubmit="return valid_datas( this );">
 
                                 <div class="one_third">
                                     <label class="input">
@@ -671,13 +671,13 @@
 
                                 <div class="one_half">
                                     <label class="input">
-                                        <input type="text" name="name" id="website" placeholder="Address">
+                                        <input type="text" name="name" id="address" placeholder="Address">
                                     </label>
                                 </div>
 
                                 <div class="one_half last">
                                     <label class="input">
-                                        <input type="email" name="email" id="location" placeholder="Contact #">
+                                        <input type="email" name="email" id="phone" placeholder="Contact #">
                                     </label>
                                 </div>
 
