@@ -15,9 +15,9 @@
 	$address = $_POST['address'];
 	$subject = stripslashes( nl2br( $_POST['subject'] ) );
 	$message = stripslashes( nl2br( $_POST['message'] ) );
-	
-	$headers ="From: Form Contact <$from>\n";
-	$headers.="MIME-Version: 1.0\n";
+
+	$headers ="MIME-Version: 1.0\n";
+	$headers .="From: Form Contact <$from>\n";
 	$headers.="Content-type: text/html; charset=iso 8859-1";
 	
 	ob_start();
@@ -42,7 +42,7 @@
 	
 	$to = 'powerlogic1992@gmail.com';
 
-	$s = mail($to,$subject,$body,null,"-t -i -f $from");
+	$s = mail($to,$subject,$body,$headers,"-t -i -f $from");
 
 	if( $s == 1 ){
 		echo '<div class="success"><i class="fa fa-check-circle"></i><h3>Thank You!</h3>Your message has been sent successfully.</div>';
