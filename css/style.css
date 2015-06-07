@@ -9880,9 +9880,12 @@ ul.adsbanner-list {
 
 }
 .get-started {
+	text-align:center;
 	position: relative;
-	bottom: 70px;
-	left: 25px;
+	top: -80px;
+}
+.get-started a{
+	text-align:center;
 }
 .get-started .fa{
 	text-align: center;
@@ -9890,7 +9893,6 @@ ul.adsbanner-list {
 	color: #b1b1b3;
 	font-size: 18px;
 	margin-top: 5px;
-	padding-left: 10px;
 }
 .get-started a:hover{
 	background-color: transparent;
