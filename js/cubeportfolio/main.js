@@ -10,7 +10,7 @@
         init cubeportfolio
      *********************************/
     gridContainer.cubeportfolio({
-        defaultFilter: '*',
+        defaultFilter: '.metal',
         animationType: 'fadeOutTop',
         gapHorizontal: 0,
         gapVertical: 0,
