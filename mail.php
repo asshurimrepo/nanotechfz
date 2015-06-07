@@ -1,5 +1,6 @@
 <?php
-	
+	require 'PHPMailerAutoload.php';
+
 	if( empty( $_POST['token'] ) ){
 		echo '<span class="notice">Error!</span>';
 		exit;
@@ -8,7 +9,7 @@
 		echo '<span class="notice">Error!</span>';
 		exit;
 	}
-	
+
 	$name = $_POST['name'];
 	$from = $_POST['email'];
 	$phone = $_POST['phone'];
@@ -16,39 +17,31 @@
 	$subject = stripslashes( nl2br( $_POST['subject'] ) );
 	$message = stripslashes( nl2br( $_POST['message'] ) );
 
-	$headers ="MIME-Version: 1.0\n";
-	$headers .="From: Form Contact <$from>\n";
-	$headers.="Content-type: text/html; charset=iso 8859-1";
-	
-	ob_start();
-	?>
-		Hi GSRthemes9!<br /><br />
-		<?php echo ucfirst( $name ); ?>  has sent you a message via contact form on your website!
-		<br /><br />
-		
-		Name: <?php echo ucfirst( $name ); ?><br />
-		Email: <?php echo $from; ?><br />
-		Phone: <?php echo $phone; ?><br />
-		Address: <?php echo $address; ?><br />
-		Subject: <?php echo $subject; ?><br />
-		Message: <br /><br />
-		<?php echo $message; ?>
-		<br />
-		<br />
-		============================================================
-	<?php
-	$body = ob_get_contents();
-	ob_end_clean();
-	
-	$to = 'powerlogic1992@gmail.com';
 
-	$s = mail($to,$subject,$body,$headers,"-t -i -f $from");
+	$mail = new PHPMailer;
 
-	if( $s == 1 ){
-		echo '<div class="success"><i class="fa fa-check-circle"></i><h3>Thank You!</h3>Your message has been sent successfully.</div>';
-	}else{
-		echo '<div>Your message sending failed!</div>';
+	//$mail->SMTPDebug = 3;                               // Enable verbose debug output
+
+	$mail->isSMTP();                                      // Set mailer to use SMTP
+	$mail->Host = 'smpt.mandrillapp.com';  // Specify main and backup SMTP servers
+	$mail->SMTPAuth = true;                               // Enable SMTP authentication
+	$mail->Username = 'powerlogic1992@gmail.com';                 // SMTP username
+	$mail->Password = '8z1v_B1iJCK4D36e0AfEGQ';                           // SMTP password
+	$mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
+	$mail->Port = 587;                                    // TCP port to connect to
+
+	$mail->From = 'justignite1992@gmail.com';
+	$mail->FromName = 'Jayde Guevarra';
+	$mail->addAddress('powerlogic1992@gmail.com', 'Juni Brosas');     // Add a recipient
+
+	$mail->Subject = 'Here is the subject';
+	$mail->Body    = 'This is the HTML message body <b>in bold!</b>';
+	$mail->AltBody = 'This is the body in plain text for non-HTML mail clients';
+
+	if(!$mail->send()) {
+		echo 'Message could not be sent.';
+		echo 'Mailer Error: ' . $mail->ErrorInfo;
+	} else {
+		echo 'Message has been sent';
 	}
-
-	
 ?>
