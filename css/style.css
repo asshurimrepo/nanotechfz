@@ -9882,6 +9882,7 @@ ul.adsbanner-list {
 .get-started {
 	position: relative;
 	bottom: 70px;
+	left: 25px;
 }
 .get-started .fa{
 	text-align: center;
