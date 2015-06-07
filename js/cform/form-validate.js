@@ -1,5 +1,5 @@
 function valid_datas( f ){
-	
+	f.preventDefault();
 	if( f.name.value == '' ){
 		jQuery('#form_status').html('<span class="wrong">Your name must not be empty!</span>');
 		notice( f.name );
