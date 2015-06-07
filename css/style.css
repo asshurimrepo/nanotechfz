@@ -9879,7 +9879,31 @@ ul.adsbanner-list {
 	background-color: rgba(0,0,0,0.6); /*dim the background*/
 
 }
-
+.get-started {
+	position: relative;
+	bottom: 70px;
+}
+.get-started .fa{
+	text-align: center;
+	display: block;
+	color: #b1b1b3;
+	font-size: 18px;
+	margin-top: 5px;
+	padding-left: 10px;
+}
+.get-started a:hover{
+	background-color: transparent;
+	border: 2px solid #b1b1b3;
+}
+.get-started a{
+	border: 2px solid #b1b1b3;
+	background-color: transparent;
+	border-radius: 0;
+	color: #b1b1b3;
+	text-transform: uppercase;
+	font-size: 14px;
+	font-weight: 600;
+}
 .contact-box-title {
 	color: white;
 	display: block;
