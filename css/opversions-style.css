@@ -1,14 +1,20 @@
 /* Logos */
 .logoopv1 {
 	float: left;
-	width: 16%;
+	width: 35%;
 	height: 90px;
-	padding: 20px 0 0 2%;
+	padding: 30px 0 0 2%;
 	background: transparent;
+
+}
+.logoopv1 a{
+	color: white;
+	font-weight: bold;
+	font-size: 35px;
 }
 .menuopv1 {
 	float: left;
-	width: 82%;
+	width: 64%;
 }
 
 .logoopv2 {
@@ -1172,6 +1178,11 @@ h6.dbclord {
 
 
 
+@media only screen and (min-width: 1000px) {
+	.opstycky1{
+		background-color: transparent ;
+	}
+}
 
 
 @media only screen and (min-width: 1000px) and (max-width: 1169px){
@@ -1416,6 +1427,7 @@ h6.dbclord {
 
 .logoopv1 {
 	width: 34%;
+	padding: 20px 0 0 2%;
 }
 .menuopv1 {
 	width: 64%;
@@ -1687,6 +1699,7 @@ h6.dbclord {
 
 .logoopv1 {
 	width: 40%;
+  	padding-top: 20px;
 }
 .menuopv1 {
 	width: 58%;
@@ -1975,6 +1988,7 @@ h6.dbclord {
 	width: 100%;
 	padding: 0;
 	text-align: center;
+	padding-top: 50px;
 }
 .logoopv1 img {
 	padding-top: 20px;
@@ -1992,7 +2006,7 @@ h6.dbclord {
 
 .onepage_sectionarea {
 	height: auto;
-	padding-top: 55px;
+	padding-top: 145px;
 }
 .onepage_section1 {
 	height: auto;
@@ -2252,6 +2266,7 @@ h6.dbclord {
 	width: 100%;
 	padding: 0;
 	text-align: center;
+	padding: 40px 10px 0 10px;
 }
 .logoopv1 img {
 	padding-top: 20px;
@@ -2268,7 +2283,7 @@ h6.dbclord {
 
 .onepage_sectionarea {
 	height: auto;
-	padding-top: 55px;
+	padding-top: 145px;
 }
 .onepage_section1 {
 	height: auto;

@@ -23,9 +23,9 @@
   width: 100%;
   background: rgba(35,36,40,0.95);
   border-bottom: none;
-  -webkit-box-shadow: 0 1px 4px rgba(0,0,0,.1);
+  /*-webkit-box-shadow: 0 1px 4px rgba(0,0,0,.1);
   box-shadow: 0 1px 4px rgba(0,0,0,.1);
-  -moz-box-shadow: 0 1px 4px rgba(0,0,0,.1);
+  -moz-box-shadow: 0 1px 4px rgba(0,0,0,.1);*/
   height: auto;
   padding-top: 0px;
   padding-bottom: 0px;
@@ -39,6 +39,7 @@
 	position: fixed;
 	z-index: 9999;
 	top: 0px;
+  background: rgba(35,36,40,0.95);
 }
 
 .nav-collapse ul {

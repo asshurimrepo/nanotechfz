@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/nanotechfz.iml" filepath="$PROJECT_DIR$/.idea/nanotechfz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Nanotech.iml" filepath="$PROJECT_DIR$/.idea/Nanotech.iml" />
     </modules>
   </component>
 </project>
