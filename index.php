@@ -246,7 +246,7 @@
 
                         <?php include('folio-agriculture.php'); ?>
 
-                        <?php include('folio-fertilizers.php'); ?>
+                        <?php include('folio-fertilizer.php'); ?>
 
                     </div>
 

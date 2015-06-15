@@ -9,18 +9,17 @@ $agriculture = [
 ];
 foreach($agriculture as $item){ ?>
         <!-- Metal - Drill Pipes -->
-        <div class="cbp-item agriculture">
-            <a class="cbp-caption cbp-lightbox" data-title="<?=$item['name']?>" href="products/<?=$item['image']?>">
+        <div class="cbp-item fertilizer">
+            <a class="cbp-caption cbp-lightbox">
                 <div class="cbp-caption-defaultWrap">
                     <img src="products/<?=$item['image']?>" alt="">
+                    <h4><b><?=$item['name']?></b></h4>
                 </div>
                 <div class="cbp-caption-activeWrap">
                     <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
-                            <div class="cbp-l-caption-title"><?=$item['name']?></div>
-                            <div class="cbp-l-caption-desc">
-                                <a href="<?=asset($item['download_link'])?>"> Download Certificate</a>
-                            </div>
+
+                            <button class="btn btn-default" href="#" onclick="window.location.href='<?=$item['download_link'];?>'"> <b>Download Certificate</b></button>
                         </div>
                     </div>
                 </div>
