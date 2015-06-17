@@ -169,9 +169,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="one_full stcode_title12">
-                        <h4><span class="line"></span><span class="text  divider-title">High Standard Fuel Oil Trading</span></h4>
+                        <h4><span class="line"></span><span class="text  divider-title">We are a Dubai based subsidiary of <br> Middle East Grain Company</span></h4>
                         <div class="col-md-8 col-md-offset-2" style="margin-bottom: 60px;">
-                            <p>We are a spirited and enthusiastic team dedicated to delivering superior business results. We support agricultural, oil, metallurgical, industrial, construction, manufactoring and other sectors.</p>
+                            <p>20 years of consolidated experience in grain markets locally and internationally.</p>
                         </div>
                         <div class="clearfix"></div>
                     </div>
