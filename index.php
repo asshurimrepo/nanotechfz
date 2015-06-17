@@ -123,7 +123,7 @@
                 <img src="js/masterslider/blank.gif" data-src="images/slider-2.jpg" alt="Nanotech"/>
 
                 <h3 class="ms-layer text4"
-                    style="top: 280px; font-weight: 600; font-size: 50px"
+                    style="top: 280px; font-weight: 600; font-size: 50px; line-height: 50px !important;"
                     data-type="text"
                     data-effect="rotate3dtop(50,0,0,90)"
                     data-duration="1000"
@@ -135,7 +135,7 @@
                 </h3>
 
                 <h5 class="ms-layer text6"
-                    style="top: 340px; font-style: normal; font-weight: 100"
+                    style="top: 340px; font-style: normal; font-weight: 100; line-height: 150px !important;"
                     data-type="text"
                     data-effect="bottom(45)"
                     data-duration="2000"
