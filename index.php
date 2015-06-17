@@ -21,10 +21,6 @@
 
     <!-- Google fonts - witch you want to use - (rest you can just remove) -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic' rel='stylesheet' type='text/css'>
-    <!--<link href='http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500,500italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Dancing+Script:400,700' rel='stylesheet' type='text/css'>-->
-
 
     <!--[if lt IE 9]>
     <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
@@ -55,8 +51,6 @@
     <!-- shortcodes -->
     <link rel="stylesheet" media="screen" href="css/shortcodes.css" type="text/css" />
 
-
-
     <!-- menu -->
     <link href="js/mainmenu/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="js/opmenu/menu.css">
@@ -83,7 +77,6 @@
 
     <!-- accordion -->
     <link rel="stylesheet" type="text/css" href="js/accordion/style.css" />
-
 </head>
 
 <body>
@@ -137,7 +130,7 @@
                     data-delay="500"
                     data-ease="easeInOutQuint"
                         >
-                    High Standard Fuel Oil Trading
+                    We are a Dubai based subsidiary of Middle East Grain Company
 
                 </h3>
 
@@ -149,7 +142,7 @@
                     data-delay="1500"
                     data-ease="easeOutExpo"
                         >
-                    We are a spirited and enthusiastic team dedicated to delivering superior business results.
+                    20 years of consolidated experience in grain markets locally and internationally.
                 </h5>
 
 

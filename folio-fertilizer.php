@@ -18,7 +18,6 @@ foreach($agriculture as $item){ ?>
                 <div class="cbp-caption-activeWrap">
                     <div class="cbp-l-caption-alignCenter">
                         <div class="cbp-l-caption-body">
-
                             <button class="btn btn-default" href="#" onclick="window.location.href='<?=$item['download_link'];?>'"> <b>Download Certificate</b></button>
                         </div>
                     </div>
