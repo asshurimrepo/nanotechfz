@@ -120,7 +120,7 @@
 
                 <div class="slide-pattern"></div>
 
-                <img src="js/masterslider/blank.gif" data-src="images/slider-3.jpg" alt="Nanotech"/>
+                <img src="js/masterslider/blank.gif" data-src="images/slider-4.jpg" alt="Nanotech"/>
 
                 <h3 class="ms-layer text4"
                     style="top: 280px; font-weight: 600; font-size: 50px; line-height: 50px !important;"
