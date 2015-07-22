@@ -323,7 +323,7 @@
                                 </label>
                             </div>
 
-                            <div class="one_half">
+                            <div class="one_half last">
                                 <label class="input">
                                     <input type="email" name="email" id="email" placeholder="Email">
                                 </label>
