@@ -254,9 +254,9 @@
 
 <div class="fgmapfull" >
     <a style="cursor: pointer;" id="open-map">
-        <div class="map-border" >
+        <div class="map-border" id="contact"  >
             <span class="map-title">Open the map<i class="map-point-down fa fa-angle-down"></i></span>
-            <div><i id="contact" class="map-down-excess fa fa-caret-down" style="font-size: 34px;  color: #37a2d8; margin-top: -6px;"></i></div>
+            <div><i class="map-down-excess fa fa-caret-down" style="font-size: 34px;  color: #37a2d8; margin-top: -6px;"></i></div>
         </div>
     </a>
 
