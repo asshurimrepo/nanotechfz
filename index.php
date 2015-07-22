@@ -305,7 +305,7 @@
                     <h2><strong>GET IN TOUCH</strong>
                         <span class="line"></span></h2>
 
-                    <p>We want to hear from you. Feel free to contact us  at any time you please using our contact form below.</p>
+                    <p>Contact us at any time.</p>
 
                 </div>
             </div>
@@ -317,30 +317,28 @@
                         <div id="form_status"></div>
                         <form type="POST" id="gsr-contact" onSubmit="return valid_datas( this );">
 
-                            <div class="one_third">
+                            <div class="one_half">
                                 <label class="input">
                                     <input type="text" name="name" id="name" placeholder="Full Name">
                                 </label>
                             </div>
 
-                            <div class="one_third ">
+                            <div class="one_half">
                                 <label class="input">
                                     <input type="email" name="email" id="email" placeholder="Email">
                                 </label>
                             </div>
 
-                            <div class="one_third last">
-                                <label class="input">
-                                    <input type="text" name="company" id="company" placeholder="Company Name">
-                                </label>
-                            </div>
 
                             <div class="clearfix"></div>
 
                             <div class="one_half">
                                 <label class="input">
-                                    <input type="text" name="address" id="address" placeholder="Address">
+                                    <input type="text" name="company" id="company" placeholder="Company Name">
                                 </label>
+                                <!--<label class="input">
+                                    <input type="text" name="address" id="address" placeholder="Address">
+                                </label>-->
                             </div>
 
                             <div class="one_half last">
@@ -369,7 +367,7 @@
 
     <div class="copyright_info3">
         <div class="container">
-            Copyright NanotechFZ © 2012-2015. All Rights Reserved.
+            Copyright © Nanotech Trading FZE 2012 - 2015. All Rights Reserved.
         </div>
     </div><!-- end copyright info -->
 
