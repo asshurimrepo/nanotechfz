@@ -252,7 +252,7 @@
 
 <div class="clearfix"></div>
 
-<div class="fgmapfull">
+<div class="fgmapfull" id="contact">
     <a style="cursor: pointer;" id="open-map">
         <div class="map-border" >
             <span class="map-title">Open the map<i class="map-point-down fa fa-angle-down"></i></span>
@@ -296,7 +296,7 @@
 
 <div class="clearfix"></div>
 
-<div class="onepage_section6" id="contact" style=" margin-top: -7px;">
+<div class="onepage_section6"  style=" margin-top: -7px;">
 
     <footer class="footer3">
         <div class="container">
