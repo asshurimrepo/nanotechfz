@@ -36,7 +36,7 @@
 
 
 <!-- Metal - Sintering -->
-<div class="cbp-item metal">
+<!--<div class="cbp-item metal">
     <a class="cbp-caption cbp-lightbox" data-title="Sintering" href="products/Sinter-Plant-1.jpg">
         <div class="cbp-caption-defaultWrap">
             <img src="products/Sinter-Plant-1.jpg" alt="">
@@ -50,7 +50,7 @@
             </div>
         </div>
     </a>
-</div>
+</div>-->
 
 <!-- Metal - Copper -->
 <div class="cbp-item metal">

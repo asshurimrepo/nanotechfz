@@ -229,7 +229,7 @@
                             Metal <div class="cbp-filter-counter"></div>
                         </div>
                         <div data-filter=".fertilizer" class="cbp-filter-item  btn btn-primary">
-                            Agricultural Fertilizer <div class="cbp-filter-counter"></div>
+                            Agricultural Fertilizers <div class="cbp-filter-counter"></div>
                         </div>
                     </div>
 

@@ -5,7 +5,7 @@ $agriculture = [
     ['name' => 'Monoammonium Phosphate', 'image' => 'certificate.png', 'download_link' => 'uploads/MAP.pdf' ],
     ['name' => 'Potassium Chloride', 'image' => 'certificate.png', 'download_link' => 'uploads/potassium chloride.pdf' ],
     ['name' => 'Potassium Sulphate', 'image' => 'certificate.png', 'download_link' => 'uploads/Potassium sulphate.pdf' ],
-    ['name' => 'UREA Grade A', 'image' => 'certificate.png', 'download_link' => 'uploads/UREA.pdf' ],
+    ['name' => 'UREA Grade "A"', 'image' => 'certificate.png', 'download_link' => 'uploads/UREA.pdf' ],
 ];
 foreach($agriculture as $item){ ?>
         <!-- Metal - Drill Pipes -->
