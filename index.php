@@ -289,7 +289,7 @@
                 </div>
             </div>
         </div>
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3613.960840779546!2d55.14241!3d25.06931635!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f6cade878e4b7%3A0x151b0abbad71293e!2sPlatinum+Tower+-+Dubai+-+United+Arab+Emirates!5e0!3m2!1sen!2sph!4v1433595984131" width="100%" height="260"></iframe>
+        <iframe src="https://www.google.ae/maps/place/SAIF-Zone+Gate/@25.3264988,55.4958373,17z/data=!3m1!4b1!4m2!3m1!1s0x3ef5f5f73efc451d:0x79663741ad74a926" frameborder="0" width="100%" height="260"></iframe>
 
     </div>
 </div><!-- end footer google map -->
