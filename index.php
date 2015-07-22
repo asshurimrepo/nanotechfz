@@ -289,7 +289,7 @@
                 </div>
             </div>
         </div>
-        <iframe src="https://www.google.ae/maps/place/SAIF-Zone+Gate/@25.3267138,55.4956074,20z/data=!4m7!1m4!3m3!1s0x3ef5f5f73efc451d:0x79663741ad74a926!2sSAIF-Zone+Gate!3b1!3m1!1s0x3ef5f5f73efc451d:0x79663741ad74a926?hl=ar" frameborder="0" width="100%" height="260"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d450.79121808438737!2d55.4956074!3d25.3267138!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ef5f5f73efc451d%3A0x79663741ad74a926!2sSAIF-Zone+Gate!5e0!3m2!1sar!2sae!4v1437575912542" frameborder="0" width="100%" height="260" style="border:0" allowfullscreen></iframe>
 
     </div>
 </div><!-- end footer google map -->
