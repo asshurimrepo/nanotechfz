@@ -9889,19 +9889,19 @@ ul.adsbanner-list {
 .get-started .fa{
 	text-align: center;
 	display: block;
-	color: #b1b1b3;
+	color: #fff;
 	font-size: 18px;
 	margin-top: 5px;
 }
 .get-started a:hover{
 	background-color: transparent;
-	border: 2px solid #b1b1b3;
+	border: 2px solid #fff;
 }
 .get-started a{
-	border: 2px solid #b1b1b3;
+	border: 2px solid #fff;
 	background-color: transparent;
 	border-radius: 0;
-	color: #b1b1b3;
+	color: #fff;
 	text-transform: uppercase;
 	font-size: 14px;
 	font-weight: 600;
