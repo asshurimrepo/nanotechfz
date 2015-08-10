@@ -13,7 +13,7 @@ $agriculture = [
     ['name' => 'Sunflower Oil', 'image' => 'sunflower_oil.jpg', 'description' => 'Sunflower oil is a monounsaturated (MUFA)/polyunsaturated (PUFA) mixture of mostlyoleic acid (omega-9)-linoleic acid (omega-6) group of oils.'],
     ['name' => 'Corn Oil', 'image' => 'corn_oil.jpg', 'description' => 'Corn oil is also a feedstock used for biodiesel. Almost all corn oil isÂ expeller pressed, then solvent extracted using hexane or 2-methylpentane (isohexane).'],
     ['name' => 'Nut', 'image' => 'nut.jpg', 'description' => 'Nuts have a very low glycemic index (GI) due to their high unsaturated fat and protein content and relatively low carbohydrate content. '],
-    ['name' => 'Nut', 'image' => 'cotton.jpg', 'description' => '']
+    ['name' => 'Cotton', 'image' => 'cotton.jpg', 'description' => '']
 ];
 foreach($agriculture as $item){ ?>
         <!-- Metal - Drill Pipes -->

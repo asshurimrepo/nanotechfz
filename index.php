@@ -122,7 +122,7 @@
 
                 <img src="js/masterslider/blank.gif" data-src="images/slider-4.jpg" alt="Nanotech"/>
 
-                <h3 class="ms-layer text4"
+                <!--<h3 class="ms-layer text4"
                     style="top: 280px; font-weight: 600; font-size: 50px; line-height: 50px !important;"
                     data-type="text"
                     data-effect="rotate3dtop(50,0,0,90)"
@@ -143,15 +143,13 @@
                     data-ease="easeOutExpo"
                         >
                     20 years of consolidated experience in grain markets locally and internationally.
-                </h5>
+                </h5>-->
+            </div>
 
-
-            </div><!-- end slide 1 -->
-
-            <div class="get-started" id="about">
+            <!--<div class="get-started" id="about">
                 <a href="#about" class="btn btn-primary btn-lg">Get Started</a>
                 <i class="fa fa-chevron-down"></i>
-            </div>
+            </div>-->
 
         </div>
     </div>
@@ -179,22 +177,22 @@
                     <div class="text-left" style="text-align: left !important;">
                         <div class="col-md-4 about-item">
                             <img src="images/_at_a_glance.jpg" class="img-responsive" alt="At a Glance" width="100%">
-                            <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>Our Responsibility</b></h4>
-                            <p>The company's main business activities include international trade, the import and export of bulk commodities. We have direct access to some of the world's biggest suppliers of bulk commodities, who have the capability to deliver products to qualified clients on time and as committed.We are dealing with various commodities in Grain, Metals, Energy and Investment projects.</p>
+                            <!-- <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>Our Responsibility</b></h4>
+                            <p>The company's main business activities include international trade, the import and export of bulk commodities. We have direct access to some of the world's biggest suppliers of bulk commodities, who have the capability to deliver products to qualified clients on time and as committed.We are dealing with various commodities in Grain, Metals, Energy and Investment projects.</p> -->
 
                         </div><!-- end section -->
 
                         <div class="col-md-4 about-item">
                             <img src="images/_financial.jpg" class="img-responsive" alt="Financials" width="100%">
-                            <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>Financials</b></h4>
-                            <p>Board of Directors considered investment projects of medium and large businesses in the agricultural, oil, metallurgical, industrial, construction, manufacturing and other sectors.</p>
+                            <!-- <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>Financials</b></h4>
+                            <p>Board of Directors considered investment projects of medium and large businesses in the agricultural, oil, metallurgical, industrial, construction, manufacturing and other sectors.</p> -->
 
                         </div><!-- end section -->
 
                         <div class="col-md-4 about-item">
                             <img src="images/_responsibility.jpg" class="img-responsive" alt="Our Responsibility" width="100%">
-                            <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>At a Glance</b></h4>
-                            <p>Nanotech Trading is an international trading company based in Dubai (UAE) and office in Ukraine. The company's main business activities include international trade, the import and export of bulk commodities. We have direct access to some of the world's biggest suppliers of bulk commodities, who have the capability to deliver products to qualified clients on time and as committed.</p>
+                            <!-- <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>At a Glance</b></h4>
+                            <p>Nanotech Trading is an international trading company based in Dubai (UAE) and office in Ukraine. The company's main business activities include international trade, the import and export of bulk commodities. We have direct access to some of the world's biggest suppliers of bulk commodities, who have the capability to deliver products to qualified clients on time and as committed.</p> -->
                         </div>
                     </div><!-- end section -->
                 </div>
