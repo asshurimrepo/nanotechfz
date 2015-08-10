@@ -178,21 +178,21 @@
 
                     <div class="text-left" style="text-align: left !important;">
                         <div class="col-md-4 about-item">
-                            <img src="images/_responsibility.jpg" class="img-responsive" alt="Our Responsibility">
+                            <img src="images/_at_a_glance.jpg" class="img-responsive" alt="At a Glance" width="100%">
                             <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>Our Responsibility</b></h4>
                             <p>The company's main business activities include international trade, the import and export of bulk commodities. We have direct access to some of the world's biggest suppliers of bulk commodities, who have the capability to deliver products to qualified clients on time and as committed.We are dealing with various commodities in Grain, Metals, Energy and Investment projects.</p>
 
                         </div><!-- end section -->
 
                         <div class="col-md-4 about-item">
-                            <img src="images/_financial.jpg" class="img-responsive" alt="Financials">
+                            <img src="images/_financial.jpg" class="img-responsive" alt="Financials" width="100%">
                             <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>Financials</b></h4>
                             <p>Board of Directors considered investment projects of medium and large businesses in the agricultural, oil, metallurgical, industrial, construction, manufacturing and other sectors.</p>
 
                         </div><!-- end section -->
 
                         <div class="col-md-4 about-item">
-                            <img src="images/_at_a_glance.jpg" class="img-responsive" alt="At a Glance">
+                            <img src="images/_responsibility.jpg" class="img-responsive" alt="Our Responsibility" width="100%">
                             <h4 class="color2 column-title" class="animate" data-anim-type="zoomIn" data-anim-delay="200"><b>At a Glance</b></h4>
                             <p>Nanotech Trading is an international trading company based in Dubai (UAE) and office in Ukraine. The company's main business activities include international trade, the import and export of bulk commodities. We have direct access to some of the world's biggest suppliers of bulk commodities, who have the capability to deliver products to qualified clients on time and as committed.</p>
                         </div>
