@@ -122,7 +122,7 @@
 
                 <img src="js/masterslider/blank.gif" data-src="images/slider-4.jpg" alt="Nanotech"/>
 
-                <h3 class="ms-layer text4"
+                <!--<h3 class="ms-layer text4"
                     style="top: 280px; font-weight: 600; font-size: 50px; line-height: 50px !important;"
                     data-type="text"
                     data-effect="rotate3dtop(50,0,0,90)"
@@ -143,7 +143,7 @@
                     data-ease="easeOutExpo"
                         >
                     20 years of consolidated experience in grain markets locally and internationally.
-                </h5>
+                </h5>-->
             </div>
 
             <!--<div class="get-started" id="about">
@@ -167,7 +167,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="one_full stcode_title12">
-                        <h4><span class="line"></span><span class="text  divider-title">We are a Dubai based subsidiary of <br> Middle East Grain Company</span></h4>
+                        <h4><span class="line"></span><span class="text  divider-title">NANOTECH  TRADING FZE</span></h4>
                         <div class="col-md-8 col-md-offset-2" style="margin-bottom: 60px;">
                             <p>20 years of consolidated experience in grain markets locally and internationally.</p>
                         </div>
